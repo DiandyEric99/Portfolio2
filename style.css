@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=Poor+Story&display=swap');
+head {
+;
+    background-color: brown;
+}
+body{
+    font-family: 'Poor Story', system-ui;
+}
+h1{
+    text-align: center;
+    background-color: bisque;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h2
+p {
+    font-style: italic;
+}
+div{
+   background-image: url(https://www.webmarketing-com.com/wp-content/uploads/2021/10/entrepreneur-hygiene-de-vie.jpg); 
+}
+.underline{
+    text-decoration: underline;
+}
+.highlight{
+    text-shadow: 0cm;
+}
+.underline{
+    text-decoration: underline;
+}
+h2
+{
+    font-family: 'Poor Story', system-ui;
+}
+body {
+    color: black;
+    background-image: url(https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1J7Qy?ver=6487&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true);
+font-size: x-large;
+}
+aside{
+    height: 100vh;
+    width: 200px;
+    background-color: rgb(233, 233, 221);
+    position: fixed;
+    top: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    text-align: left;
+}
+.papa{
+    margin-left: 220px;
